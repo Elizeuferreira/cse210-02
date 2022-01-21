@@ -77,7 +77,7 @@ def hi_lo_game(deck):
 	# Number of chances left
 	chances = 3
 
-	# The current
+	# The current points
 	score = 0
 
 	# The GAME LOOP

@@ -1,6 +1,5 @@
 import random
 
-
 class Guess:
     """A small cube with a different number of spots on each of its six sides.
 
