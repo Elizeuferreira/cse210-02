@@ -78,7 +78,7 @@ def hi_lo_game(deck):
 	chances = 3
 
 	# The current points
-	score = 0
+	score = 300
 
 	# The GAME LOOP
 	while chances:
@@ -130,7 +130,7 @@ def hi_lo_game(deck):
 
 		# A high card
 		if cards_values[current_card.value] > cards_values[prev_card.value]:
-			result = 1
+			result =+ 300
 
 		# A low card	
 		elif cards_values[current_card.value] < cards_values[prev_card.value]:
@@ -149,8 +149,8 @@ def hi_lo_game(deck):
 		elif choice == result:
 			clear()
 			print("\t\t\t YOU WIN!!! Play Again")
-			score = score + 1	
-
+			score = score + 300	
+        
 		# Round Lost	
 		else:
 			if chances == 1:

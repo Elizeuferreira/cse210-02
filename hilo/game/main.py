@@ -27,21 +27,3 @@ def show_card():
  
 if __name__:"__main_"
 main()
-    
-        
-         
-              
-           
-              
-              
-
-    
-
-    
-
-    
-
-
-
-
-
