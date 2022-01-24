@@ -1,13 +1,8 @@
-
-# class Play:
-    
-#     def __init__(self, score = 300, cont_game = True, guess = None):
-#         self.score = score
-#         self.guess = guess
-#         self.cont_game = cont_game
-
 class Play:
     """Features of person who plays the game.
+class Play:
+    """Features of person who plays the game.
+    
     The responsibility of Play is to keep track of score and to decide whether the 
     game should be continued.
    
