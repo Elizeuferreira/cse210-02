@@ -29,7 +29,7 @@ Required software: VS-code (or other program to run the code), Python 3.
 
 Team members:            
 Brenner Mann,
-Elizeu Ferreira,
+Elizeu Ferreira (fer21029@byui.edu).
 Josifini Tamanalevu,
 Mahonrri Mendez,
 Shawn Yang,
