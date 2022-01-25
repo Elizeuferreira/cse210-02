@@ -1,7 +1,7 @@
 class Play:
     """Features of person who plays the game.
 class Play:
-    """Features of person who plays the game.
+    Features of person who plays the game.
     
     The responsibility of Play is to keep track of score and to decide whether the 
     game should be continued.
