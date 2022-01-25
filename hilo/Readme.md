@@ -1,7 +1,7 @@
-Overview
+OVERVIEW
 Hilo is a game in which the player guesses if the next card drawn by the dealer will be higher or lower than the previous one. Points are won or lost based on whether or not the player guessed correctly.
 
-Rules
+GAME RULES
 Hilo is played according to the following rules:
 The player starts the game with 300 points.
 Individual cards are represented as a number from 1 to 13.
@@ -14,7 +14,7 @@ If a player reaches 0 points the game is over.
 If a player has more than 0 points they decide if they want to keep playing.
 If a player decides not to play again the game is over.
 
-Project structure:
+PROJECT STRUCTURE:
 The project consists of 3 .py files: game, player and main.
 In "game" file class of Dealer is created with it's attribute "card"
 which randomly picks a card with value varying from 1 to 13.
@@ -28,7 +28,7 @@ and "start_game" methods to run the game.
 Required software: VS-code (or other program to run the code), Python 3.
 
 
- Team members:            
+ TEAM MEMBERS:            
  Brenner Mann (man19032@byui.edu),
  Elizeu Ferreira (fer21029@byui.edu),
  Josifini Tamanalevu (josifini1234@gmail.com),
