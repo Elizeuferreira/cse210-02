@@ -1,3 +1,4 @@
+
 import random
    
 class Dealer:
@@ -23,8 +24,5 @@ class Dealer:
             self (Dealer): An instance of Dealer.
         """
         self.card = random.randint(1,13)
-        return self.card
-        
-
-           
+        return self.card       
     
